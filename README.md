@@ -14,3 +14,7 @@ This code was created with google colaboratory.
 
 ## Usage
 1. Open Classification_Demonstration_code.ipynb
+2. Click open in colab
+3. Click Runtime → Change runtime type → Hardware accelerator　: GPU
+4. Run the code in order from the top
+5. The parts that can be changed are marked with "###" at the beginning. 
