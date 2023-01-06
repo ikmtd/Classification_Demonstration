@@ -12,9 +12,5 @@ Includes 30 each of ResNet18-based and SqueezeNet-based models
 4. Code : Classification_Demonstration_code.ipynb
 This code was created with google colaboratory.
 
-# Requirement
-
-
-# Usage
-
-# Author
+## Usage
+1. Open Classification_Demonstration_code.ipynb
